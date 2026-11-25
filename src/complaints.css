@@ -1,0 +1,1 @@
+.filters{display:flex;flex-wrap:wrap;gap:10px}.filters input{flex:1 1 220px}.filters select{flex:1 1 130px}.ticket>button{margin:10px 14px 0 0}.ticket h4{margin:18px 0 8px}.ticket form{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px}.ticket form button{align-self:end}.ticket small{color:#68758d}
